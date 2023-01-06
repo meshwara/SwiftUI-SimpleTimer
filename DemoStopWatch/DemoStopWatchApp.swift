@@ -11,7 +11,7 @@ import SwiftUI
 struct DemoStopWatchApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TimerWithPublish()
         }
     }
 }
